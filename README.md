@@ -10,7 +10,7 @@ Course: Data Journalism
 
 
 
-Overview
+Overview:
 
 
 
@@ -18,7 +18,7 @@ This Data Bit examines whether high earnings among WTA top-20 players go hand in
 
 
 
-Final Article
+Final Article:
 
 https://htmlpreview.github.io/?https://raw.githubusercontent.com/data-journalism-26/data-bit-2-anna_db2/main/article.html
 
@@ -30,7 +30,7 @@ Instagram followers - Manual collection from public profiles - 06.05.2026
 
 Wikipedia page views - Wikimedia Pageviews API - 01-30.04.2026
 
-
+AI use statement:
 
 I hereby confirm that I did not violate good academic conduct and certify that this assignment is my own work. All ideas and language of other authors are acknowledged in the text. All references and verbatim extracts are properly quoted, and all other sources of information are specifically and clearly designated. I declare that I used AI tools in accordance with the course syllabus: I did use the following tools: Claude, ChatGPT. I used these tools for coding in python.
 
