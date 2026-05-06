@@ -20,11 +20,7 @@ This Data Bit examines whether high earnings among WTA top-20 players go hand in
 
 Final Article
 
-
-
-\[https://htmlpreview.github.io/?https://raw.githubusercontent.com/data-journalism-26/data-bit-2-anna\_db2/main/article.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/data-journalism-26/data-bit-2-anna\_db2/main/article.html)
-
-
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/data-journalism-26/data-bit-2-anna_db2/main/article.html
 
 WTA rankings - copied from wtatennis.com - 04.05.2026
 
