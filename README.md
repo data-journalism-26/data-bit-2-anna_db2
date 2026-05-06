@@ -1,16 +1,16 @@
-\# Data Bit 2: Tennis Earnings vs. Popularity
+Data Bit 2: Tennis Earnings vs. Popularity
 
 
 
-\*\*Author:\*\* Anna Jurek  
+Author: Anna Jurek  
 
-\*\*Date:\*\* May 6, 2026  
+Date: May 6, 2026  
 
-\*\*Course:\*\* Data Journalism
+Course: Data Journalism
 
 
 
-\## Overview
+Overview
 
 
 
@@ -18,15 +18,11 @@ This Data Bit examines whether high earnings among WTA top-20 players go hand in
 
 
 
-\## Final Article
+Final Article
 
 
 
-https://htmlpreview.github.io/?https://raw.githubusercontent.com/data-journalism-26/data-bit-2-anna\_db2/refs/heads/main/article.html
-
-
-
-\## Data Sources
+\[https://htmlpreview.github.io/?https://raw.githubusercontent.com/data-journalism-26/data-bit-2-anna\_db2/main/article.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/data-journalism-26/data-bit-2-anna\_db2/main/article.html)
 
 
 
@@ -37,10 +33,6 @@ Career prize money - Wikipedia page - 06.05.2026
 Instagram followers - Manual collection from public profiles - 06.05.2026
 
 Wikipedia page views - Wikimedia Pageviews API - 01-30.04.2026
-
-
-
-\## AI Statement
 
 
 
